@@ -59,41 +59,41 @@ To run this project locally, follow the steps below:
 - Ensure you have **Node.js** and **npm** (or **yarn**) installed on your computer.
 
 ### Installation
-# 1. Clone this repository to your local machine
+1. Clone this repository to your local machine
 git clone https://github.com/your-username/personal-portfolio.git
 
-# 2. Navigate to the project directory
+2. Navigate to the project directory
 cd personal-portfolio
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Start the development server
+4. Start the development server
 npm run dev
 
-# 5. Open your browser and visit [](http://localhost:5173)
+5. Open your browser and visit [](http://localhost:5173)
 
 ---
 
 ### Deployment
 To deploy your portfolio to **GitHub Pages:**
 
-# 1. Build the project for production:
+1. Build the project for production:
 npm run build
 
-# 2. Push the build folder to your GitHub Pages branch (usually gh-pages):
+2. Push the build folder to your **GitHub Pages** branch (usually gh-pages):
 npm run deploy
-If using GitHub Pages, follow the official guide for deployment.
+If using **GitHub Pages**, follow the official guide for deployment.
 
 ---
 
-### Live Demo
+## Live Demo
 
 You can access the live version of your portfolio once it's deployed:
 
-- GitHub Pages URL:
+- **GitHub Pages URL:**
 [](https://your-username.github.io/personal-portfolio)
 
-- Demo Recording:
+- **Demo Recording:**
 [](https://drive.google.com/file/d/1WnpcB7Wn9_tspNW7pWCJcYdoZtTjZPh8/view?usp=drive_link)
 

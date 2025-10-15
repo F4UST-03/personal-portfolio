@@ -60,18 +60,18 @@ To run this project locally, follow the steps below:
 
 ### Installation
 1. Clone this repository to your local machine
-git clone https://github.com/your-username/personal-portfolio.git
+- git clone https://github.com/your-username/personal-portfolio.git
 
 2. Navigate to the project directory
-cd personal-portfolio
+- cd personal-portfolio
 
 3. Install dependencies
-npm install
+- npm install
 
 4. Start the development server
-npm run dev
+- npm run dev
 
-5. Open your browser and visit [](http://localhost:port) (usually 5173 is the default port) to view the site locally.
+5. Open your browser and visit http://localhost:port (usually 5173 is the default port) to view the site locally.
 
 ---
 
@@ -91,9 +91,9 @@ If using **GitHub Pages**, follow the official guide for deployment.
 
 You can access the live version of your portfolio once it's deployed:
 
-- **GitHub Pages URL:**
-[](https://your-username.github.io/personal-portfolio)
+- **GitHub Pages URL:** <br>
+https://your-username.github.io/personal-portfolio
 
-- **Demo Recording:**
-[](https://drive.google.com/file/d/1WnpcB7Wn9_tspNW7pWCJcYdoZtTjZPh8/view?usp=drive_link)
+- **Demo Recording:** <br>
+https://drive.google.com/file/d/1WnpcB7Wn9_tspNW7pWCJcYdoZtTjZPh8/view?usp=drive_link
 

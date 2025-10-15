@@ -71,7 +71,7 @@ npm install
 4. Start the development server
 npm run dev
 
-5. Open your browser and visit [](http://localhost:5173)
+5. Open your browser and visit [](http://localhost:port) (usually 5173 is the default port) to view the site locally.
 
 ---
 

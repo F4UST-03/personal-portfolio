@@ -92,7 +92,7 @@ If using **GitHub Pages**, follow the official guide for deployment.
 You can access the live version of your portfolio once it's deployed:
 
 - **GitHub Pages URL:** <br>
-https://your-username.github.io/personal-portfolio
+https://f4ust-03.github.io/personal-portfolio/
 
 - **Demo Recording:** <br>
 https://drive.google.com/file/d/1WnpcB7Wn9_tspNW7pWCJcYdoZtTjZPh8/view?usp=drive_link
